@@ -1,0 +1,16 @@
+:root{ 
+    /* Fuente principal del proyecto */
+    --fuenteProyecto: "Montserrat", serif; 
+
+    /* Colores principales */
+    --verde-vivo: #00C853;           /* Verde vibrante */
+    --amarillo-vivo: #FFD600;        /* Amarillo intenso para detalles */
+    --naranja-vivo: #FF6D00;         /* Naranja para elementos destacados */
+    --azul-vivo: #2979FF;            /* Azul fuerte y brillante */
+    --rosa-vivo: #FF4081;            /* Rosa vibrante para acentos */
+    
+    /* Colores de apoyo */
+    --gris-claro: #F0F0F0;           /* Fondo claro */
+    --negro: #212121;                /* Texto oscuro para contraste */
+    --blanco: #FFFFFF;               /* Fondo o texto en áreas de alto contraste */
+}
